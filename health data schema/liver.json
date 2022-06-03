@@ -1,0 +1,125 @@
+{
+  "category": "Liver Function - Data Analysis",
+  "tests": [
+    {
+      "name": "Protein Metabolism",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Energy Production Function",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Detoxification Function",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Bile Secretion Function",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Liver Fat Content",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    }
+  ]
+}

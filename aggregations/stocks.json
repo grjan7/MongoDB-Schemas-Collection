@@ -1,0 +1,11 @@
+{
+  "_id": "<ObjectId>",
+  "id": "<date>",
+  "trades": [
+    {
+      "action": "<string>",
+      "price": "<decimal128>",
+      "ticker": "<string>"
+    }
+  ]
+}

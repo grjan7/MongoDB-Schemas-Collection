@@ -1,0 +1,18 @@
+{
+  "_id": "<ObjectId>",
+  "author": "<string>",
+  "body": "<string>",
+  "comments": [
+    {
+      "author": "<string>",
+      "body": "<string>",
+      "email": "<string>"
+    }
+  ],
+  "date": "<date>",
+  "permalink": "<string>",
+  "tags": [
+    "<string>"
+  ],
+  "title": "<string>"
+}

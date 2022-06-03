@@ -1,0 +1,30 @@
+{
+  "_id": "<ObjectId>",
+  "employee_grade": "<int32>",
+  "employee_ID": "<string>",
+  "first_name": "<string>",
+  "last_name": "<string>",
+  "gender": "<string>",
+  "age": "<int32>",
+  "address": "<string>",
+  "phone": "<string>",
+  "team": "<string>",
+  "acl": [
+    "<string>"
+  ],
+  "employee_compensation": {
+    "acl": [
+      "<string>"
+    ],
+    "programs": {
+      "401K_contrib": "<double>",
+      "acl": [
+        "<string>"
+      ],
+      "health_plan": "<boolean>",
+      "spp": "<double>"
+    },
+    "salary": "<int32>",
+    "stock_award": "<int32>"
+  }
+}

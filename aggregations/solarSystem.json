@@ -1,0 +1,49 @@
+{
+  "_id": "<ObjectId>",
+  "atmosphericComposition": "<string>",
+  "eccentricity": "<double | int32>",
+  "escapeVelocity": {
+    "units": "<string>",
+    "value": "<double>"
+  },
+  "gravity": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "hasMagneticField": "<boolean>",
+  "hasRings": "<boolean>",
+  "inclinationOfAxis": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "mass": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "meanDensity": "<double>",
+  "meanOrbitalVelocity": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "meanTemperature": "<int32>",
+  "name": "<string>",
+  "numberOfMoons": "<int32>",
+  "orbitalPeriod": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "orderFromSun": "<int32>",
+  "radius": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "rotationPeriod": {
+    "units": "<string>",
+    "value": "<double | int32>"
+  },
+  "sma": {
+    "units": "<string>",
+    "value": "<int32 | long>"
+  },
+  "type": "<string>"
+}

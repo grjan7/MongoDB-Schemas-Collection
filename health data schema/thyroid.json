@@ -1,0 +1,101 @@
+{
+  "category": "Thyroid - Data Analysis",
+  "tests": [
+    {
+      "name": "Free Thyroxin (FT4)",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Thyroglobulin",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Anti-thyroglobulin Antibodies",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Three Triiodothyroxine (T3)",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "category": "Brain Nerve - Data Analysis",
+  "tests": [
+    {
+      "name": "Status of Brain Tissue Blood Supply",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Cerebral Arteriosclerosis",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Functional Status of Cranial Nerve",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Sentiment Index",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Memory Index (ZS)",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    }
+  ]
+}

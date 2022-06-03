@@ -1,0 +1,101 @@
+{
+  "category": "Menstrual Cycle - Data Analysis",
+  "tests": [
+    {
+      "name": "Beta Hormone",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Reflect Protein",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Fibrinogen",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Sedimentation Rate",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    }
+  ]
+}

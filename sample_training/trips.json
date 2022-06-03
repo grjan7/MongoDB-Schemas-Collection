@@ -1,0 +1,24 @@
+{
+  "_id": "<ObjectId>",
+  "bike_id": "<int32>",
+  "birth_year": "<int32 | string>",
+  "end_station_id": "<int32>",
+  "end_station_location": {
+    "coordinates": [
+      "<double>"
+    ],
+    "type": "<string>"
+  },
+  "end_station_name": "<string>",
+  "start_station_location": {
+    "coordinates": [
+      "<double>"
+    ],
+    "type": "<string>"
+  },
+  "start_station_name": "<string>",
+  "start_time": "<date>",
+  "stop_time": "<date>",
+  "trip_duration": "<int32>",
+  "user_type": "<string>"
+}

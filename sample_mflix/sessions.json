@@ -1,0 +1,5 @@
+{
+  "_id": "<ObjectId>",
+  "jwt": "<string>",
+  "user_id": "<string>"
+}

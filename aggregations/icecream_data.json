@@ -1,0 +1,12 @@
+{
+  "_id": "<ObjectId>",
+  "trends": [
+    {
+      "avg_high_tmp": "<int32>",
+      "avg_low_tmp": "<int32>",
+      "icecream_cpi": "<double>",
+      "icecream_sales_in_millions": "<int32>",
+      "month": "<string>"
+    }
+  ]
+}

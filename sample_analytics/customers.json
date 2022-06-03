@@ -1,0 +1,24 @@
+{
+  "_id": "<ObjectId>",
+  "accessNumber": "<int32>",
+  "accountNumber": "<string>",
+  "accountType": "<string>",
+  "address": "<string>",
+  "age": "<int32>",
+  "balance": "<decimal128>",
+  "challange": [
+    {
+      "answer": "<string>",
+      "phrase": "<string>"
+    }
+  ],
+  "email": "<string>",
+  "employer": "<string>",
+  "gender": "<string>",
+  "name": {
+    "first": "<string>",
+    "last": "<string>"
+  },
+  "phone": "<string>",
+  "userID": "<string>"
+}

@@ -1,0 +1,17 @@
+{
+  "_id": "<ObjectId>",
+  "account_id": "<int32>",
+  "bucket_end_date": "<date>",
+  "bucket_start_date": "<date>",
+  "transaction_count": "<int32>",
+  "transactions": [
+    {
+      "amount": "<int32>",
+      "date": "<date>",
+      "price": "<string>",
+      "symbol": "<string>",
+      "total": "<string>",
+      "transaction_code": "<string>"
+    }
+  ]
+}

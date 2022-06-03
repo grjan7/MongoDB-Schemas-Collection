@@ -1,0 +1,60 @@
+{
+  "id": "<int32>",
+  "name": "<string>",
+  "age": "<int32>",
+  "gender": "<string>",
+  "dob": "<date>",
+  "title": "<string>",
+  "height": {
+    "units": "<string>",
+    "value": "<double>"
+  },
+  "weight": {
+    "units": "<string>",
+    "value": "<double>"
+  },
+  "event_date": "<date>",
+  "event_time": "<datetime>",
+  "testing_time": "<datetime>",
+  "figure": "<string>",
+  "report": [
+    {
+      "category": "<string>",
+      "tests": [
+        {
+          "name": "<string>",
+          "reference_standards": {
+            "normal": {
+              "range": [
+                "<double>"
+              ],
+              "symbol": "<string>"
+            },
+            "mildly_abnormal": {
+              "range": [
+                "<double>"
+              ],
+              "symbol": "<string>"
+            },
+            "moderately_abnormal": {
+              "range": [
+                "<double>"
+              ],
+              "symbol": "<string>"
+            },
+            "severly_abnormal": {
+              "range": [
+                "<double>"
+              ],
+              "symbol": "<string>"
+            }
+          },
+          "units": "<string>",
+          "actual_measurement_value": "<double>",
+          "testing_result": "<string>",
+          "description": "<string>"
+        }
+      ]
+    }
+  ]
+}

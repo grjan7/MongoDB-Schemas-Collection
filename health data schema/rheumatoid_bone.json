@@ -1,0 +1,125 @@
+{
+  "category": "Rheumatoid Bone Disease - Data Analysis",
+  "tests": [
+    {
+      "name": "Degree of Cervical Calcification",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Degree of Lumbar Calcification",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Bone Hyperplasia Coefficient",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Osteoporosis Coefficient",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    },
+    {
+      "name": "Rheumatism Coefficient",
+      "reference_standards": {
+        "normal": {
+          "range": [],
+          "symbol": "-"
+        },
+        "mildly_abnormal": {
+          "range": [],
+          "symbol": "+"
+        },
+        "moderately_abnormal": {
+          "range": [],
+          "symbol": "++"
+        },
+        "severly_abnormal": {
+          "range": [],
+          "symbol": "+++"
+        }
+      },
+      "units": "",
+      "actual_measurement_value": 0.0,
+      "description": ""
+    }
+  ]
+}

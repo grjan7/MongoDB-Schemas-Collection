@@ -1,0 +1,21 @@
+{
+  "_id": "<ObjectId>",
+  "address": {
+    "city": "<string>",
+    "number": "<string>",
+    "street": "<string>",
+    "zipcode": "<string>"
+  },
+  "borough": "<string>",
+  "domain": "<string>",
+  "group": "<string>",
+  "location": {
+    "coordinates": [
+      "<double>"
+    ],
+    "type": "<string>"
+  },
+  "name": "<string>",
+  "specialty": "<string>",
+  "type": "<string>"
+}

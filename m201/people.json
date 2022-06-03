@@ -1,0 +1,18 @@
+{
+  "_id": "<ObjectId>",
+  "first_name": "<string>",
+  "last_name": "<string>",
+  "birthday": "<date>",
+  "ssn": "<string>",
+  "email": "<string>",
+  "address": {
+    "street": "<string>",
+    "city": "<string>",
+    "state": "<string>",
+    "zip": "<string>"
+  },
+  "company_id": "<ObjectId>",
+  "employer": "<string>",
+  "job": "<string>",
+  "quote": "<string>"
+}

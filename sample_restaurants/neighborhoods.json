@@ -1,0 +1,14 @@
+{
+  "_id": "<ObjectId>",
+  "geometry": {
+    "coordinates": [
+      [
+        [
+          "<double>"
+        ]
+      ]
+    ],
+    "type": "<string>"
+  },
+  "name": "<string>"
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "<ObjectId>",
+  "airline": "<int32>",
+  "name": "<string>",
+  "alias": "<string>",
+  "iata": "<string>",
+  "icao": "<string>",
+  "active": "<string>",
+  "country": "<string>",
+  "base": "<string>"
+}

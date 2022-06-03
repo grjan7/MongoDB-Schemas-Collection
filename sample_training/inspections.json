@@ -1,0 +1,15 @@
+{
+  "_id": "<ObjectId>",
+  "address": {
+    "city": "<string>",
+    "number": "<int32>",
+    "street": "<string>",
+    "zip": "<int32>"
+  },
+  "business_name": "<string>",
+  "certificate_number": "<int32>",
+  "date": "<string>",
+  "id": "<string>",
+  "result": "<string>",
+  "sector": "<string>"
+}

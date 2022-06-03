@@ -1,0 +1,165 @@
+{
+  "_id": "<ObjectId>",
+  "air_temperature": {
+    "quality": "<string>",
+    "value": "<double | int32>"
+  },
+  "atmospheric_pressure_change": {
+    "quantity_24_hours": {
+      "quality": "<string>",
+      "value": "<double>"
+    },
+    "quantity_3_hours": {
+      "quality": "<string>",
+      "value": "<double | int32>"
+    },
+    "tendency": {
+      "code": "<string>",
+      "quality": "<string>"
+    }
+  },
+  "atmospheric_pressure_observation": {
+    "altimeterSetting": {
+      "quality": "<string>",
+      "value": "<double>"
+    },
+    "station_pressure": {
+      "quality": "<string>",
+      "value": "<double | int32>"
+    }
+  },
+  "call_letters": "<string>",
+  "data_source": "<string>",
+  "dew_point": {
+    "quality": "<string>",
+    "value": "<double | int32>"
+  },
+  "elevation": "<int32>",
+  "past_weather_observation_manual": [
+    {
+      "atmospheric_condition": {
+        "quality": "<string>",
+        "value": "<string>"
+      },
+      "period": {
+        "quality": "<string>",
+        "value": "<int32>"
+      }
+    }
+  ],
+  "position": {
+    "coordinates": [
+      "<double>"
+    ],
+    "type": "<string>"
+  },
+  "precipitation_estimated_observation": {
+    "discrepancy": "<string>",
+    "estimated_water_depth": "<int32>"
+  },
+  "present_weather_observation_manual": [
+    {
+      "condition": "<string>",
+      "quality": "<string>"
+    }
+  ],
+  "pressure": {
+    "quality": "<string>",
+    "value": "<double | int32>"
+  },
+  "quality_control_process": "<string>",
+  "sea_surface_temperature": {
+    "quality": "<string>",
+    "value": "<double | int32>"
+  },
+  "sections": [
+    "<string>"
+  ],
+  "sky_condition": {
+    "cavok": "<string>",
+    "ceiling_height": {
+      "determination": "<string>",
+      "quality": "<string>",
+      "value": "<int32>"
+    }
+  },
+  "sky_condition_observation": {
+    "high_cloud_genus": {
+      "quality": "<string>",
+      "value": "<string>"
+    },
+    "low_cloud_genus": {
+      "quality": "<string>",
+      "value": "<string>"
+    },
+    "lowest_cloudbase_height": {
+      "quality": "<string>",
+      "value": "<int32>"
+    },
+    "lowest_cloud_coverage": {
+      "quality": "<string>",
+      "value": "<int32>"
+    },
+    "mid_cloud_genus": {
+      "quality": "<string>",
+      "value": "<string>"
+    },
+    "total_coverage": {
+      "opaque": "<string>",
+      "quality": "<string>",
+      "value": "<string>"
+    }
+  },
+  "sky_cover_layer": [
+    {
+      "base_height": {
+        "quality": "<string>",
+        "value": "<int32>"
+      },
+      "cloud_type": {
+        "quality": "<string>",
+        "value": "<string>"
+      },
+      "coverage": {
+        "quality": "<string>",
+        "value": "<string>"
+      }
+    }
+  ],
+  "st": "<string>",
+  "ts": "<date>",
+  "type": "<string>",
+  "visibility": {
+    "distance": {
+      "quality": "<string>",
+      "value": "<int32>"
+    },
+    "variability": {
+      "quality": "<string>",
+      "value": "<string>"
+    }
+  },
+  "wave_ measurment": {
+    "method": "<string>",
+    "sea_state": {
+      "code": "<string>",
+      "quality": "<string>"
+    },
+    "waves": {
+      "height": "<int32 | double>",
+      "period": "<int32>",
+      "quality": "<string>"
+    }
+  },
+  "wind": {
+    "direction": {
+      "angle": "<int32>",
+      "quality": "<string>"
+    },
+    "speed": {
+      "quality": "<string>",
+      "rate": "<double | int32>"
+    },
+    "type": "<string>"
+  }
+}

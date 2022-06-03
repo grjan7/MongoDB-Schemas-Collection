@@ -1,0 +1,14 @@
+{
+  "_id": "<ObjectId>",
+  "hasRings": "<boolean>",
+  "mainAtmosphere": [
+    "<string>"
+  ],
+  "name": "<string>",
+  "orderFromSun": "<int32>",
+  "surfaceTemperatureC": {
+    "max": "<int32 | double>",
+    "mean": "<int32 | double>",
+    "min": "<int32 | double>"
+  }
+}

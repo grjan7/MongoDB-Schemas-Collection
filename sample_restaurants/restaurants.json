@@ -1,0 +1,22 @@
+{
+  "_id": "<ObjectId>",
+  "address": {
+    "building": "<string>",
+    "coord": [
+      "<double>"
+    ],
+    "street": "<string>",
+    "zipcode": "<string>"
+  },
+  "borough": "<string>",
+  "cuisine": "<string>",
+  "grades": [
+    {
+      "date": "<date>",
+      "grade": "<string>",
+      "score": "<int32>"
+    }
+  ],
+  "name": "<string>",
+  "restaurant_id": "<string>"
+}

@@ -1,0 +1,6 @@
+{
+  "_id": "<int32>",
+  "name": "<string>",
+  "reports_to": "<int32>",
+  "title": "<string>"
+}

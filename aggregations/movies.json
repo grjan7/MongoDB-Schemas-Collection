@@ -1,0 +1,65 @@
+{
+  "_id": "<ObjectId>",
+  "awards": "<string>",
+  "cast": [
+    "<string>"
+  ],
+  "comments": [
+    {
+      "date": "<date>",
+      "email": "<string>",
+      "movie_id": "<ObjectId>",
+      "name": "<string>",
+      "text": "<string>"
+    }
+  ],
+  "countries": [
+    "<string>"
+  ],
+  "directors": [
+    "<string>"
+  ],
+  "fullplot": "<string>",
+  "genres": [
+    "<string>"
+  ],
+  "imdb": {
+    "id": "<int32>",
+    "rating": "<double>",
+    "votes": "<int32>"
+  },
+  "languages": [
+    "<string>"
+  ],
+  "lastupdated": "<string>",
+  "metacritic": "<int32>",
+  "num_mflix_commenents": "<int>",
+  "num_mflix_comments": "<int32>",
+  "plot": "<string>",
+  "poster": "<string>",
+  "rated": "<string>",
+  "released": "<date>",
+  "runtime": "<int32>",
+  "title": "<string>",
+  "tomatoes": {
+    "critic": {
+      "meter": "<int32>",
+      "numReviews": "<int32>",
+      "rating": "<double>"
+    },
+    "dvd": "<date>",
+    "fresh": "<int32>",
+    "lastUpdated": "<date>",
+    "rotten": "<int32>",
+    "viewer": {
+      "meter": "<int32>",
+      "numReviews": "<int32>",
+      "rating": "<double | int32>"
+    }
+  },
+  "type": "<string>",
+  "writers": [
+    "<string>"
+  ],
+  "year": "<int32>"
+}

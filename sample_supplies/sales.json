@@ -1,0 +1,23 @@
+{
+  "_id": "<ObjectId>",
+  "couponUsed": "<boolean>",
+  "customer": {
+    "age": "<int32>",
+    "email": "<string>",
+    "gender": "<string>",
+    "satisfaction": "<int32>"
+  },
+  "items": [
+    {
+      "name": "<string>",
+      "price": "<decimal128>",
+      "quantity": "int32",
+      "tags": [
+        "<string>"
+      ]
+    }
+  ],
+  "purchaseMethod": "<string>",
+  "saleDate": "<date>",
+  "storeLocation": "<string>"
+}

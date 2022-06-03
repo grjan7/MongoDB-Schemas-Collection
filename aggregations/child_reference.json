@@ -1,0 +1,8 @@
+{
+  "_id": "<int32>",
+  "direct_reports": [
+    "<string>"
+  ],
+  "name": "<string>",
+  "title": "<string>"
+}

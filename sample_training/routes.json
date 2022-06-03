@@ -1,0 +1,14 @@
+{
+  "_id": "<ObjectId>",
+  "airline": {
+    "alias": "<string>",
+    "iata": "<string>",
+    "id": "<int32>",
+    "name": "<string>"
+  },
+  "airplane": "<string | int32>",
+  "codeshare": "<string>",
+  "dst_airport": "<string>",
+  "src_airport": "<string>",
+  "stops": "<int32>"
+}

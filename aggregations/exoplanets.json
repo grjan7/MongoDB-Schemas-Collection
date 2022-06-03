@@ -1,0 +1,13 @@
+{
+  "_id": "<ObjectId>",
+  "system": {
+    "name": "<string>",
+    "numbers_of_planets": "<string>",
+    "planets": {
+      "discovery_method": "<string>",
+      "letter": "<string>",
+      "name": "<string>"
+    },
+    "star_solar_masses": "<string>"
+  }
+}

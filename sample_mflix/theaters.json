@@ -1,0 +1,19 @@
+{
+  "_id": "<ObjectId>",
+  "location": {
+    "address": {
+      "city": "<string>",
+      "state": "<string>",
+      "street1": "<string>",
+      "street2": "<string>",
+      "zipcode": "<string>"
+    },
+    "geo": {
+      "coordinates": [
+        "<double>"
+      ],
+      "type": "<string>"
+    }
+  },
+  "theaterId": "<int32>"
+}

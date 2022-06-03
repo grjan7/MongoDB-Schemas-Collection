@@ -1,0 +1,11 @@
+{
+  "_id": "<ObjectId>",
+  "class_id": "<int32>",
+  "scores": [
+    {
+      "score": "<double>",
+      "type": "<string>"
+    }
+  ],
+  "student_id": "<int32>"
+}

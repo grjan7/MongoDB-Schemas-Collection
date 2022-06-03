@@ -1,0 +1,8 @@
+{
+  "_id": "<ObjectId>",
+  "account_id": "<int32>",
+  "limit": "<int32>",
+  "products": [
+    "<string>"
+  ]
+}

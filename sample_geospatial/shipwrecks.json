@@ -1,0 +1,18 @@
+{
+  "_id": "<ObjectId>",
+  "chart": "<string>",
+  "coordinates": [
+    "<double>"
+  ],
+  "depth": "<int32>",
+  "feature_type": "<string>",
+  "gp_quality": "<string>",
+  "history": "<string>",
+  "latdec": "<double>",
+  "londec": "<double>",
+  "quasou": "<string>",
+  "recrd": "<string>",
+  "sounding_type": "<string>",
+  "vesselterms": "<string>",
+  "watlev": "<string>"
+}
